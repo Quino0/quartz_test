@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://github.com/Quino0/quantum_notes
+  baseUrl: quino0.github.io/quantum_notes
   ignorePatterns:
     - private
     - templates
