@@ -1,15 +1,18 @@
-# Quantum Computing Test Vault
+---
+title: Home
+---
 
-Welcome to the test vault.
+# My Notes
 
-Start with [[Quantum Computing]] and explore from there.
+Vítej v mém osobním vaultu.
 
-## Main areas
-- [[Qubit]]
-- [[Quantum Gates]]
-- [[Entanglement]]
-- [[Quantum Algorithms]]
-- [[Quantum Error Correction]]
-- [[Quantum Hardware]]
+## Sekce
 
-#quantum #index
+- [[Programming/index|Programming]]
+- [[School/index|School]]
+- [[Projects/index|Projects]]
+- [[Notes/index|Notes]]
+
+## Poslední nápady
+
+Sem si můžeš zapisovat rychlé poznámky, odkazy a věci, ke kterým se chceš vrátit.
